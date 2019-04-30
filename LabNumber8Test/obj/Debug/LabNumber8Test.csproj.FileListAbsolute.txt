@@ -1,0 +1,7 @@
+C:\Users\Richie\source\repos\LabNumber8Test\LabNumber8Test\bin\Debug\LabNumber8Test.exe.config
+C:\Users\Richie\source\repos\LabNumber8Test\LabNumber8Test\bin\Debug\LabNumber8Test.exe
+C:\Users\Richie\source\repos\LabNumber8Test\LabNumber8Test\bin\Debug\LabNumber8Test.pdb
+C:\Users\Richie\source\repos\LabNumber8Test\LabNumber8Test\obj\Debug\LabNumber8Test.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\LabNumber8Test\LabNumber8Test\obj\Debug\LabNumber8Test.exe
+C:\Users\Richie\source\repos\LabNumber8Test\LabNumber8Test\obj\Debug\LabNumber8Test.pdb
+C:\Users\Richie\source\repos\LabNumber8Test\LabNumber8Test\obj\Debug\LabNumber8Test.csprojAssemblyReference.cache
